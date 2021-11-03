@@ -4,7 +4,7 @@ This is a simple practice project for unit-testing and integrated-testing.
 
 ## Technologies
 
-1- (Jest) testing tool for React
+1- (Jest) testing tool for Javascript
 
 2- React.js
 
@@ -22,6 +22,10 @@ This is a simple practice project for unit-testing and integrated-testing.
 
 6- Exploring properties in Jest library
 
+7- Testing async components
+
+8- Testing side effects using mock functions with Jest
+
 ### Launch method
 
 To run the project:
@@ -35,5 +39,5 @@ To run the project:
 ```
 npm install
 
-npm start
+npm test
 ```
